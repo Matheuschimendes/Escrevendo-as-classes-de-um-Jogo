@@ -31,3 +31,4 @@ heroi1.atacar();
 
 const heroi2 = new Heroi('Aragorn', 23 , 'guerreiro');
 heroi2.atacar();
+e
